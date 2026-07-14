@@ -30,4 +30,4 @@ After deployment, verify these paths return successfully:
 - `/assets/psychology-today-verified.png`
 - `/assets/social-preview.jpg`
 
-The Calendly script is intentionally lazy-loaded only when the booking section approaches the viewport.
+The Calendly booking iframe loads eagerly when the page opens, with early connection hints in the page head.
