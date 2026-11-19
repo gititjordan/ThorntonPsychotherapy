@@ -1,33 +1,7 @@
-# Thornton Psychotherapy & Wellness Website
-
-Updated:
-- Larger, centered logo on mobile
-- Square logo image added for link previews/social sharing
-- Open Graph and Twitter preview meta tags added
-- Favicon/apple touch icon added
-
-Note: Some apps cache link previews. After deploying, iMessage/Facebook may need time or a cache refresh before showing the new image.
 # Thornton Psychotherapy & Wellness
 
-Static website deployment package.
+Static HTML, CSS, and JavaScript. No dependencies or build step are required. Run `python -m http.server 4321` from the root to preview the site locally.
 
-## Publish checklist
+The presentation uses the teal, dark teal, ivory, and mist values rendered by revision `83750ca`. Lora and Inter are self-hosted under the SIL Open Font License. The original logo, photographs, copy, metadata, and Calendly destination are retained.
 
-Upload the entire project structure—not the HTML files by themselves:
-
-- `index.html`
-- `about.html`
-- `privacy.html`
-- `accessibility.html`
-- `assets/` and every file inside it
-- `robots.txt`
-- `sitemap.xml`
-
-After deployment, verify these paths return successfully:
-
-- `/assets/site-logo-760.png`
-- `/assets/gladys-photo-900.jpg`
-- `/assets/psychology-today-verified.png`
-- `/assets/social-preview.jpg`
-
-The Calendly booking iframe loads eagerly when the page opens, with early connection hints in the page head.
+To check preservation, run `python checks/verify_copy.py checks/original-content.json`. The snapshot records the page copy, accessibility labels, links, media sources, and metadata of all four original pages. The palette record captures computed styles at a 1440px viewport in that revision.

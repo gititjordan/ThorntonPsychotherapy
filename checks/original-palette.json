@@ -1,0 +1,297 @@
+{
+  "index.html": {
+    "body": {
+      "color": "rgb(25, 59, 57)",
+      "background": "rgb(251, 248, 242)",
+      "backgroundImage": "radial-gradient(circle at 8% 10%, rgba(67, 130, 124, 0.075), rgba(0, 0, 0, 0) 464px), radial-gradient(circle at 94% 38%, rgba(201, 142, 130, 0.067), rgba(0, 0, 0, 0) 496px), radial-gradient(rgba(36, 78, 74, 0.027) 0.55px, rgba(0, 0, 0, 0) 0.7px)",
+      "border": "rgb(25, 59, 57)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    "h1": {
+      "color": "rgb(25, 59, 57)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "border": "rgb(25, 59, 57)",
+      "typeface": "Lora, serif"
+    },
+    ".hero": {
+      "color": "rgb(25, 59, 57)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "radial-gradient(circle at 78% 28%, rgba(76, 143, 136, 0.14), rgba(0, 0, 0, 0) 400px), radial-gradient(circle at 10% 90%, rgba(201, 142, 130, 0.07), rgba(0, 0, 0, 0) 352px), linear-gradient(112deg, rgba(255, 253, 249, 0.97), rgba(247, 242, 235, 0.92))",
+      "border": "rgb(25, 59, 57)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    ".hero-text": {
+      "color": "rgb(64, 95, 92)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "border": "rgb(64, 95, 92)",
+      "typeface": "Inter, system-ui, sans-serif"
+    },
+    ".nav-wrap": {
+      "color": "rgb(25, 59, 57)",
+      "background": "rgba(253, 250, 245, 0.86)",
+      "backgroundImage": "none",
+      "border": "rgb(25, 59, 57)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    ".hero-cta": {
+      "color": "rgb(255, 255, 255)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "linear-gradient(135deg, rgb(111, 169, 164), rgb(90, 143, 138))",
+      "border": "rgba(255, 255, 255, 0.45)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    ".btn-outline": {
+      "color": "rgb(255, 255, 255)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "linear-gradient(135deg, rgb(111, 169, 164), rgb(90, 143, 138))",
+      "border": "rgba(255, 255, 255, 0.45)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    ".eyebrow": {
+      "color": "rgb(45, 105, 101)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "border": "rgb(45, 105, 101)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    "#about": {
+      "color": "rgb(25, 59, 57)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "linear-gradient(rgba(251, 248, 243, 0.9), rgba(241, 248, 246, 0.76))",
+      "border": "rgba(222, 213, 198, 0.55)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    "#who-i-work-with": {
+      "color": "rgb(25, 59, 57)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "radial-gradient(circle at 102% 44%, rgba(66, 128, 122, 0.12), rgba(0, 0, 0, 0) 400px), linear-gradient(rgba(248, 245, 239, 0.9), rgba(252, 250, 246, 0.94))",
+      "border": "rgb(25, 59, 57)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    "#approach": {
+      "color": "rgb(25, 59, 57)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "radial-gradient(circle at 5% 92%, rgba(198, 139, 127, 0.08), rgba(0, 0, 0, 0) 352px), linear-gradient(rgba(240, 247, 245, 0.78), rgba(251, 248, 243, 0.92))",
+      "border": "rgba(222, 213, 198, 0.55)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    "#book": {
+      "color": "rgb(25, 59, 57)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "radial-gradient(circle at 76% 48%, rgba(68, 135, 128, 0.106), rgba(0, 0, 0, 0) 400px), linear-gradient(rgba(251, 248, 243, 0.95), rgba(247, 244, 238, 0.96))",
+      "border": "rgba(222, 213, 198, 0.55)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    ".feature": {
+      "color": "rgb(25, 59, 57)",
+      "background": "rgba(255, 255, 255, 0.72)",
+      "backgroundImage": "none",
+      "border": "rgba(35, 91, 86, 0.12)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    ".who-card": {
+      "color": "rgb(25, 59, 57)",
+      "background": "rgba(255, 255, 255, 0.72)",
+      "backgroundImage": "none",
+      "border": "rgba(35, 91, 86, 0.12)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    ".info-box": {
+      "color": "rgb(25, 59, 57)",
+      "background": "rgba(255, 255, 255, 0.72)",
+      "backgroundImage": "none",
+      "border": "rgba(35, 91, 86, 0.12)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    ".method-item": {
+      "color": "rgb(54, 95, 91)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "border": "rgb(54, 95, 91)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    ".booking-points": {
+      "color": "rgb(25, 59, 57)",
+      "background": "rgba(255, 255, 255, 0.48)",
+      "backgroundImage": "none",
+      "border": "rgba(45, 105, 101, 0.11)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    ".crisis-note": {
+      "color": "rgb(95, 112, 109)",
+      "background": "rgba(255, 255, 255, 0.48)",
+      "backgroundImage": "none",
+      "border": "rgb(95, 112, 109)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    ".site-footer": {
+      "color": "rgb(246, 242, 233)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "radial-gradient(circle at 88% 4%, rgba(133, 190, 183, 0.16), rgba(0, 0, 0, 0) 448px), linear-gradient(135deg, rgb(23, 63, 60) 0%, rgb(40, 95, 91) 100%)",
+      "border": "rgba(255, 255, 255, 0.1)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    ".photo-caption-name": {
+      "color": "rgb(25, 59, 57)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "border": "rgb(25, 59, 57)",
+      "typeface": "Lora, Georgia, serif"
+    }
+  },
+  "about.html": {
+    "body": {
+      "color": "rgb(25, 59, 57)",
+      "background": "rgb(253, 250, 245)",
+      "backgroundImage": "radial-gradient(circle at 8% 12%, rgba(79, 145, 139, 0.075), rgba(0, 0, 0, 0) 384px), radial-gradient(circle at 94% 45%, rgba(201, 172, 143, 0.067), rgba(0, 0, 0, 0) 448px), none",
+      "border": "rgb(25, 59, 57)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    ".nav-wrap": {
+      "color": "rgb(25, 59, 57)",
+      "background": "rgba(253, 250, 245, 0.88)",
+      "backgroundImage": "none",
+      "border": "rgb(25, 59, 57)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    ".about-only-page": {
+      "color": "rgb(25, 59, 57)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "linear-gradient(rgba(251, 248, 243, 0.9), rgba(241, 248, 246, 0.78))",
+      "border": "rgba(222, 213, 198, 0.55)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    ".eyebrow": {
+      "color": "rgb(45, 105, 101)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "border": "rgb(45, 105, 101)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    ".info-box": {
+      "color": "rgb(25, 59, 57)",
+      "background": "rgba(255, 255, 255, 0.74)",
+      "backgroundImage": "none",
+      "border": "rgba(35, 91, 86, 0.12)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    "h2": {
+      "color": "rgb(25, 59, 57)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "border": "rgb(25, 59, 57)",
+      "typeface": "Lora, serif"
+    },
+    ".lead": {
+      "color": "rgb(91, 112, 110)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "border": "rgb(91, 112, 110)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    },
+    ".site-footer": {
+      "color": "rgba(255, 255, 255, 0.78)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "linear-gradient(135deg, rgb(23, 63, 60), rgb(40, 95, 91))",
+      "border": "rgba(255, 255, 255, 0.78)",
+      "typeface": "Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+    }
+  },
+  "privacy.html": {
+    "body": {
+      "color": "rgb(36, 71, 68)",
+      "background": "rgb(251, 248, 242)",
+      "backgroundImage": "none",
+      "border": "rgb(36, 71, 68)",
+      "typeface": "Inter, sans-serif"
+    },
+    "header": {
+      "color": "rgb(36, 71, 68)",
+      "background": "rgb(255, 253, 249)",
+      "backgroundImage": "none",
+      "border": "rgb(36, 71, 68)",
+      "typeface": "Inter, sans-serif"
+    },
+    "h1": {
+      "color": "rgb(36, 71, 68)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "border": "rgb(36, 71, 68)",
+      "typeface": "Lora, serif"
+    },
+    "main p": {
+      "color": "rgb(96, 115, 112)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "border": "rgb(96, 115, 112)",
+      "typeface": "Inter, sans-serif"
+    },
+    "main a": {
+      "color": "rgb(45, 105, 101)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "border": "rgb(45, 105, 101)",
+      "typeface": "Inter, sans-serif"
+    },
+    ".notice": {
+      "color": "rgb(96, 115, 112)",
+      "background": "rgb(237, 245, 243)",
+      "backgroundImage": "none",
+      "border": "rgb(96, 115, 112)",
+      "typeface": "Inter, sans-serif"
+    },
+    "footer": {
+      "color": "rgb(217, 232, 228)",
+      "background": "rgb(33, 78, 75)",
+      "backgroundImage": "none",
+      "border": "rgb(217, 232, 228)",
+      "typeface": "Inter, sans-serif"
+    }
+  },
+  "accessibility.html": {
+    "body": {
+      "color": "rgb(36, 71, 68)",
+      "background": "rgb(251, 248, 242)",
+      "backgroundImage": "none",
+      "border": "rgb(36, 71, 68)",
+      "typeface": "Inter, sans-serif"
+    },
+    "header": {
+      "color": "rgb(36, 71, 68)",
+      "background": "rgb(255, 253, 249)",
+      "backgroundImage": "none",
+      "border": "rgb(36, 71, 68)",
+      "typeface": "Inter, sans-serif"
+    },
+    "h1": {
+      "color": "rgb(36, 71, 68)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "border": "rgb(36, 71, 68)",
+      "typeface": "Lora, serif"
+    },
+    "main p": {
+      "color": "rgb(96, 115, 112)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "border": "rgb(96, 115, 112)",
+      "typeface": "Inter, sans-serif"
+    },
+    "main a": {
+      "color": "rgb(45, 105, 101)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "border": "rgb(45, 105, 101)",
+      "typeface": "Inter, sans-serif"
+    },
+    "footer": {
+      "color": "rgb(217, 232, 228)",
+      "background": "rgb(33, 78, 75)",
+      "backgroundImage": "none",
+      "border": "rgb(217, 232, 228)",
+      "typeface": "Inter, sans-serif"
+    }
+  }
+}
