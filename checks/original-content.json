@@ -1,0 +1,485 @@
+{
+  "index.html": {
+    "copy": [
+      "PSYCHOTHERAPY & WELLNESS",
+      "THORNTON",
+      "PSYCHOTHERAPY & WELLNESS",
+      "About",
+      "Services",
+      "Approach",
+      "Book",
+      "Menu",
+      "01",
+      "About",
+      "Background, values and perspective",
+      "02",
+      "Services",
+      "Who I work with",
+      "03",
+      "Approach",
+      "Methods and credentials",
+      "Virtual therapy across Ontario",
+      "Virtual Therapy",
+      "A supportive space to reconnect, heal, and move forward.",
+      "I believe healing begins through connection, compassion, and hope. Rooted in a trauma-informed and client-centered approach, this space was created to support individuals navigating life’s challenges while holding onto the reminder to never let go — of hope, of healing, or of yourself.",
+      "Book a free consultation",
+      "Virtual therapy",
+      "Secure platform",
+      "Confidential",
+      "Gladys Thornton",
+      "Registered Psychotherapist (Qualifying)",
+      "A little about me",
+      "I am here to support you.",
+      "I am a Registered Psychotherapist (Qualifying) dedicated to creating a warm, compassionate, and non-judgmental space where you can feel safe to explore your experiences and move toward healing at your own pace. I believe meaningful change happens when people feel truly seen, heard, and supported, and I strive to help you feel comfortable showing up as your most authentic self in therapy.",
+      "My goal is to walk alongside you as you gain insight, develop practical coping tools, and create lasting, meaningful change in your life. While my foundation is rooted in person-centred therapy, I take an integrative approach tailored to each client’s unique needs and goals. I draw from evidence-based modalities such as Cognitive Behavioural Therapy (CBT), Emotion-Focused Therapy (EFT), and trauma-informed approaches.",
+      "I also value the importance of nervous system regulation and often incorporate somatic-based techniques to help clients build greater self-awareness, grounding, emotional balance, and resilience in their everyday lives.",
+      "Read More About Me",
+      "Compassionate Care",
+      "A supportive space where you can feel heard and understood.",
+      "Personalized Support",
+      "Therapy tailored to your needs, goals, and experiences.",
+      "Growth Focused",
+      "Practical tools for insight, resilience, and lasting change.",
+      "Secure & Confidential",
+      "Your privacy and comfort are treated with care.",
+      "Who I Work With",
+      "Support for individuals navigating life’s challenges.",
+      "I support parents, new moms, teens, adults, and members of the LGBTQ+ community who may be navigating anxiety, depression, grief, trauma, life transitions, and relationship or family challenges.",
+      "I am especially passionate about working with individuals who feel emotionally overwhelmed, stuck, disconnected from themselves, or are carrying the weight of difficult experiences while trying to care for others.",
+      "I also work with suicide loss survivors and individuals or families impacted by addiction, offering a compassionate and non-judgmental space to process complex emotions such as grief, guilt, fear, anger, and helplessness.",
+      "Whether you are adjusting to a new stage of life, coping with loss, struggling with self-worth, or trying to reconnect with yourself, therapy can be a place to feel supported, understood, and empowered.",
+      "My approach is warm, collaborative, trauma-informed, and tailored to your unique needs and goals.",
+      "I strive to provide an inclusive, affirming, and culturally sensitive space where all individuals feel safe, respected, and supported.",
+      "Read more",
+      "Parents & Caregivers",
+      "Support for individuals balancing caregiving, emotional stress, and daily overwhelm.",
+      "New Moms",
+      "A compassionate space for postpartum emotions, identity shifts, and adjustment.",
+      "Teens & Adults",
+      "Support through anxiety, self-worth struggles, emotional regulation, and life transitions.",
+      "Grief & Trauma",
+      "Gentle trauma-informed support for difficult experiences, loss, and emotional healing.",
+      "Addiction-Impacted Families",
+      "A non-judgmental space for families and individuals navigating addiction-related challenges.",
+      "Life Transitions",
+      "Support through periods of uncertainty, identity changes, and emotional overwhelm.",
+      "My Approach",
+      "Compassionate, collaborative, and client-centred.",
+      "I provide a warm, supportive space where you can explore your experiences safely and authentically. Using an integrative, trauma-informed approach, I tailor therapy to your unique needs while supporting emotional healing, self-awareness, and nervous system regulation.",
+      "Methods I draw from",
+      "01",
+      "Cognitive Behavioural Therapy (CBT)",
+      "02",
+      "Emotion-Focused Therapy",
+      "03",
+      "Trauma-Informed Care",
+      "04",
+      "Somatic & Mindfulness-Based Approaches",
+      "My Credentials",
+      "Registered Psychotherapist (Qualifying), CRPO",
+      "Master of Arts in Counselling Psychology Candidate, Yorkville University",
+      "Member, Canadian Counselling and Psychotherapy Association (CCPA)",
+      "Practicing under Clinical Supervision",
+      "Independent verification",
+      "Book a Session",
+      "Let’s take the next step together.",
+      "Book a free 30-minute consultation to see if we are a good fit and talk through how I can support you.",
+      "What to expect",
+      "Free 30-minute consultation",
+      "Easy online booking",
+      "Secure and confidential",
+      "Need immediate help?",
+      "This booking form is not monitored for emergencies. If you are in immediate danger, call 911. In Canada, call or text 988 for suicide crisis support.",
+      "Thornton Psychotherapy & Wellness",
+      "A supportive space to begin healing, reconnect with yourself, and move forward with greater clarity.",
+      "Privacy",
+      "Accessibility",
+      "Explore",
+      "Home",
+      "About",
+      "Who I Work With",
+      "Approach",
+      "Book",
+      "Connect",
+      "Instagram",
+      "Psychology Today",
+      "(226) 774-5695",
+      "© 2026 Thornton Psychotherapy & Wellness. All rights reserved.",
+      "Virtual therapy across Ontario"
+    ],
+    "accessibility": [
+      [
+        "a",
+        "aria-label",
+        "Thornton Psychotherapy & Wellness home"
+      ],
+      [
+        "img",
+        "alt",
+        "Thornton Psychotherapy & Wellness logo"
+      ],
+      [
+        "button",
+        "aria-label",
+        "Open navigation"
+      ],
+      [
+        "img",
+        "alt",
+        "Gladys Thornton"
+      ],
+      [
+        "img",
+        "alt",
+        "Verified by Psychology Today - Licensed by Province of Ontario"
+      ],
+      [
+        "iframe",
+        "title",
+        "Book a consultation with Gladys Thornton"
+      ]
+    ],
+    "links": [
+      "#home",
+      "about.html",
+      "#who-i-work-with",
+      "#approach",
+      "#book",
+      "about.html",
+      "#who-i-work-with",
+      "#approach",
+      "#book",
+      "about.html",
+      "privacy.html",
+      "accessibility.html",
+      "index.html",
+      "about.html",
+      "#who-i-work-with",
+      "#approach",
+      "#book",
+      "https://www.instagram.com/gladysthornton.psychotherapy/",
+      "https://www.psychologytoday.com/ca/therapists/gladys-isabel-thornton-windsor-on/1595549",
+      "tel:+12267745695"
+    ],
+    "media": [
+      [
+        "img",
+        "./assets/site-logo-760.png"
+      ],
+      [
+        "img",
+        "./assets/site-logo-760.png"
+      ],
+      [
+        "img",
+        "./assets/gladys-photo-900.jpg"
+      ],
+      [
+        "img",
+        "./assets/psychology-today-verified.png"
+      ],
+      [
+        "iframe",
+        "https://calendly.com/gladys-thornton-anchoringpoint/30min?embed_domain=thorntonpsychotherapy.com&embed_type=Inline&hide_gdpr_banner=1"
+      ],
+      [
+        "img",
+        "./assets/site-logo-760.png"
+      ]
+    ],
+    "seo": [
+      {
+        "charset": "UTF-8"
+      },
+      {
+        "name": "viewport",
+        "content": "width=device-width, initial-scale=1.0"
+      },
+      {
+        "title": "Thornton Psychotherapy & Wellness | Virtual Therapy"
+      },
+      {
+        "name": "description",
+        "content": "Virtual therapy with Thornton Psychotherapy & Wellness. Compassionate support for anxiety, depression, trauma, stress, relationships, and self-esteem."
+      },
+      {
+        "name": "robots",
+        "content": "index, follow"
+      },
+      {
+        "name": "author",
+        "content": "Thornton Psychotherapy & Wellness"
+      },
+      {
+        "name": "keywords",
+        "content": "Thornton Psychotherapy & Wellness, virtual therapy Ontario, psychotherapist qualifying, anxiety therapy, trauma informed therapy, grief support, new moms therapy, teen therapy, counselling Ontario"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://thorntonpsychotherapy.com/"
+      },
+      {
+        "property": "og:title",
+        "content": "Thornton Psychotherapy & Wellness"
+      },
+      {
+        "property": "og:description",
+        "content": "Virtual therapy rooted in connection, compassion, and hope."
+      },
+      {
+        "property": "og:url",
+        "content": "https://thorntonpsychotherapy.com/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://thorntonpsychotherapy.com/assets/social-preview.jpg?v=5"
+      },
+      {
+        "property": "og:image:width",
+        "content": "1200"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1200"
+      },
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Thornton Psychotherapy & Wellness"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Virtual therapy rooted in connection, compassion, and hope."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://thorntonpsychotherapy.com/assets/social-preview.jpg?v=5"
+      }
+    ],
+    "structured_data": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ProfessionalService",
+        "name": "Thornton Psychotherapy &amp; Wellness",
+        "description": "Virtual psychotherapy with Thornton Psychotherapy &amp; Wellness.",
+        "areaServed": "Ontario, Canada",
+        "url": "https://thorntonpsychotherapy.com/",
+        "sameAs": [
+          "https://www.instagram.com/gladysthornton.psychotherapy/",
+          "https://www.psychologytoday.com/ca/therapists/gladys-isabel-thornton-windsor-on/1595549"
+        ],
+        "serviceType": "Psychotherapy"
+      }
+    ]
+  },
+  "about.html": {
+    "copy": [
+      "PSYCHOTHERAPY & WELLNESS",
+      "THORNTON",
+      "PSYCHOTHERAPY & WELLNESS",
+      "About",
+      "Services",
+      "Approach",
+      "Book",
+      "Menu",
+      "01",
+      "Home",
+      "Return to the main page",
+      "02",
+      "About",
+      "Background, values and perspective",
+      "03",
+      "Services",
+      "Who I work with",
+      "04",
+      "Approach",
+      "Methods and credentials",
+      "Virtual therapy across Ontario",
+      "Background",
+      "Rooted in resilience, family, and connection.",
+      "I was born in San José, Costa Rica, and moved to Canada at a young age, where I witnessed my parents adapt to a new language and culture with incredible strength and resilience. Their perseverance deeply shaped my understanding of courage, sacrifice, and the importance of connection.",
+      "Becoming a mother early in life, along with navigating personal experiences of loss and hardship, has profoundly influenced the way I connect with others. These experiences have strengthened my empathy, resilience, and appreciation for the complexity of life’s challenges.",
+      "Values",
+      "A culturally sensitive and inclusive approach.",
+      "I am both ambitious and hardworking, and I bring those values into the work I do with clients every day. While I currently provide therapy in English, I am fluent in Spanish and bring a culturally sensitive and inclusive approach to my work.",
+      "I value family, connection, perseverance, and the healing power of human relationships. I also believe humour, authenticity, and moments of lightness can be an important part of the healing process.",
+      "Gladys Thornton Psychotherapy",
+      "Virtual Therapy | Secure | Confidential",
+      "Privacy",
+      "Accessibility",
+      "Home",
+      "About",
+      "Who I Work With",
+      "Approach",
+      "Book",
+      "Instagram",
+      "Psychology Today",
+      "(226) 774-5695",
+      "© 2026 Gladys Thornton Psychotherapy. All rights reserved."
+    ],
+    "accessibility": [
+      [
+        "a",
+        "aria-label",
+        "Gladys Thornton Psychotherapy home"
+      ],
+      [
+        "img",
+        "alt",
+        "Thornton Psychotherapy & Wellness logo"
+      ],
+      [
+        "button",
+        "aria-label",
+        "Open navigation"
+      ]
+    ],
+    "links": [
+      "index.html",
+      "about.html",
+      "index.html#who-i-work-with",
+      "index.html#approach",
+      "index.html#book",
+      "index.html",
+      "about.html",
+      "index.html#who-i-work-with",
+      "index.html#approach",
+      "privacy.html",
+      "accessibility.html",
+      "index.html",
+      "about.html",
+      "index.html#who-i-work-with",
+      "index.html#approach",
+      "index.html#book",
+      "https://www.instagram.com/gladysthornton.psychotherapy/",
+      "https://www.psychologytoday.com/ca/therapists/gladys-isabel-thornton-windsor-on/1595549",
+      "tel:+12267745695"
+    ],
+    "media": [
+      [
+        "img",
+        "./assets/site-logo-760.png"
+      ],
+      [
+        "img",
+        "./assets/site-logo-760.png"
+      ]
+    ],
+    "seo": [
+      {
+        "charset": "UTF-8"
+      },
+      {
+        "name": "viewport",
+        "content": "width=device-width, initial-scale=1.0"
+      },
+      {
+        "title": "About Me | Gladys Thornton Psychotherapy"
+      },
+      {
+        "name": "description",
+        "content": "Learn more about Gladys Thornton, her background, values, and approach to psychotherapy."
+      },
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "structured_data": []
+  },
+  "privacy.html": {
+    "copy": [
+      "← Thornton Psychotherapy & Wellness",
+      "Privacy",
+      "Last updated July 11, 2026.",
+      "Thornton Psychotherapy & Wellness respects your privacy. This page explains how information may be handled when you visit this website or use the external booking service.",
+      "Website information",
+      "This static website does not intentionally collect personal health information directly. Standard hosting providers may temporarily process technical information such as IP address, browser type, device type, and request logs for security and operation.",
+      "Booking and external services",
+      "Appointment scheduling is provided through Calendly. Information entered into the booking calendar is processed according to Calendly’s privacy practices. Please avoid including sensitive clinical details in the booking form.",
+      "Contact and clinical records",
+      "Information shared during psychotherapy or direct clinical communication is handled separately according to applicable professional, privacy, and record-retention obligations. Website browsing is not a substitute for confidential clinical communication.",
+      "Emergencies",
+      "This website and booking form are not monitored for emergencies. If you are in immediate danger, call 911. In Canada, call or text 988 for suicide crisis support.",
+      "Questions",
+      "For privacy questions, call",
+      "(226) 774-5695",
+      ".",
+      "© 2026 Thornton Psychotherapy & Wellness"
+    ],
+    "accessibility": [],
+    "links": [
+      "index.html",
+      "tel:+12267745695"
+    ],
+    "media": [],
+    "seo": [
+      {
+        "charset": "utf-8"
+      },
+      {
+        "name": "viewport",
+        "content": "width=device-width,initial-scale=1"
+      },
+      {
+        "title": "Privacy | Thornton Psychotherapy & Wellness"
+      },
+      {
+        "name": "description",
+        "content": "Privacy information for Thornton Psychotherapy & Wellness."
+      }
+    ],
+    "structured_data": []
+  },
+  "accessibility.html": {
+    "copy": [
+      "← Thornton Psychotherapy & Wellness",
+      "Accessibility",
+      "Thornton Psychotherapy & Wellness is committed to making this website usable by as many people as possible.",
+      "Our approach",
+      "The website is designed with responsive layouts, keyboard-visible focus states, semantic headings, descriptive image text, sufficient color contrast, reduced-motion support, and controls that communicate their expanded or collapsed state.",
+      "External booking calendar",
+      "The booking calendar is provided by Calendly and may have accessibility behavior outside our direct control. If you encounter difficulty using it, please call",
+      "(226) 774-5695",
+      "to arrange a consultation.",
+      "Feedback and alternate access",
+      "If any part of this website is difficult to use, or if you need information in another format, please call",
+      "(226) 774-5695",
+      ". We welcome feedback and will make reasonable efforts to provide an accessible alternative.",
+      "Ongoing improvement",
+      "Accessibility is an ongoing process. The site will continue to be reviewed as content and technology change.",
+      "© 2026 Thornton Psychotherapy & Wellness"
+    ],
+    "accessibility": [],
+    "links": [
+      "index.html",
+      "tel:+12267745695",
+      "tel:+12267745695"
+    ],
+    "media": [],
+    "seo": [
+      {
+        "charset": "utf-8"
+      },
+      {
+        "name": "viewport",
+        "content": "width=device-width,initial-scale=1"
+      },
+      {
+        "title": "Accessibility | Thornton Psychotherapy & Wellness"
+      },
+      {
+        "name": "description",
+        "content": "Accessibility statement for Thornton Psychotherapy & Wellness."
+      }
+    ],
+    "structured_data": []
+  }
+}
