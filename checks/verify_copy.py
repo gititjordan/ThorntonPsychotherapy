@@ -73,6 +73,13 @@ def main():
         expected[name]['copy'].remove('Book')
         expected[name]['links'].remove(href)
 
+    # The booking calendar moved to the dedicated Thornton Psychotherapy account.
+    original_calendar = 'https://calendly.com/gladys-thornton-anchoringpoint/30min'
+    updated_calendar = 'https://calendly.com/gladys-thorntonpsychotherapy/30min'
+    for media in expected['index.html']['media']:
+        if media[0] == 'iframe' and media[1].startswith(original_calendar + '?'):
+            media[1] = media[1].replace(original_calendar, updated_calendar, 1)
+
     mismatches = []
     for name in PAGES:
         actual = capture((args.repo / name).read_text())
@@ -84,7 +91,7 @@ def main():
     if mismatches:
         print('\n'.join(mismatches))
         raise SystemExit(1)
-    print('All four pages match the snapshot after the approved removal of the two header Book links.')
+    print('All four pages match the snapshot after the approved header and Calendly changes.')
 
 if __name__ == '__main__':
     main()
