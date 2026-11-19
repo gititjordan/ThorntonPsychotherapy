@@ -80,6 +80,17 @@ def main():
         if media[0] == 'iframe' and media[1].startswith(original_calendar + '?'):
             media[1] = media[1].replace(original_calendar, updated_calendar, 1)
 
+    # The practice phone number changed and the footer gained a contact email.
+    for page in expected.values():
+        page['copy'] = ['(519) 465-6921' if text == '(226) 774-5695' else text for text in page['copy']]
+        page['links'] = ['tel:+15194656921' if href == 'tel:+12267745695' else href for href in page['links']]
+
+    email = 'gladys@thorntonpsychotherapy.com'
+    for name in ('index.html', 'about.html'):
+        page = expected[name]
+        page['copy'].insert(page['copy'].index('(519) 465-6921') + 1, email)
+        page['links'].insert(page['links'].index('tel:+15194656921') + 1, f'mailto:{email}')
+
     mismatches = []
     for name in PAGES:
         actual = capture((args.repo / name).read_text())
@@ -91,7 +102,7 @@ def main():
     if mismatches:
         print('\n'.join(mismatches))
         raise SystemExit(1)
-    print('All four pages match the snapshot after the approved header and Calendly changes.')
+    print('All four pages match the snapshot after the approved header, booking, and contact changes.')
 
 if __name__ == '__main__':
     main()
