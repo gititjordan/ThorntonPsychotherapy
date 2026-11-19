@@ -268,7 +268,9 @@ h1 + .lead, h2 + .lead { margin-top: 1.25rem; }
 .footer-legal { display: flex; flex-wrap: wrap; gap: 0 1rem; margin-top: .65rem; }
 .footer-links, .footer-social { display: grid; align-content: start; justify-items: start; }
 .footer-heading { margin-bottom: .35rem; }
-.footer-phone { margin-top: .45rem; }
+.footer-phone { display: grid; justify-items: start; min-width: 0; margin-top: .45rem; }
+.footer-phone a { max-width: 100%; }
+.footer-phone a[href^="mailto:"] { display: block; padding-block: .3rem; }
 .footer-bottom { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .4rem 1.5rem; border-top: 1px solid var(--teal); padding-top: 1rem; font-size: .8rem; }
 
 .policy-page { min-height: 100vh; display: flex; flex-direction: column; color: #244744; }
