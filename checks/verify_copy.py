@@ -91,6 +91,16 @@ def main():
         page['copy'].insert(page['copy'].index('(519) 465-6921') + 1, email)
         page['links'].insert(page['links'].index('tel:+15194656921') + 1, f'mailto:{email}')
 
+    # The therapist supplied revised copy for My Approach.
+    approach_copy = expected['index.html']['copy']
+    approach_index = approach_copy.index('I provide a warm, supportive space where you can explore your experiences safely and authentically. Using an integrative, trauma-informed approach, I tailor therapy to your unique needs while supporting emotional healing, self-awareness, and nervous system regulation.')
+    approach_copy[approach_index:approach_index + 1] = [
+        'I believe that meaningful healing begins with feeling safe, seen, heard, and genuinely accepted. My approach to therapy is rooted in compassion, empathy, and authentic human connection, creating a space where you can show up exactly as you are, without fear of judgment.',
+        'I take a holistic, relational, and mindfulness-informed approach, recognizing the important connection between our thoughts, emotions, bodies, and past experiences. Through meaningful conversations, gentle exploration, guided visualization, grounding, breathing techniques, and self-compassion practices, I help clients better understand themselves, regulate their emotions, and develop a greater sense of calm and connection.',
+        "I believe that healing isn't always about pushing forward or doing more. Sometimes, it's about slowing down, listening to what our minds and bodies are telling us, and learning to treat ourselves with the same kindness and understanding we so often extend to others.",
+        'Above all, I believe the therapeutic relationship itself can be a powerful part of healing, offering opportunities to experience trust, acceptance, and connection in meaningful new ways.',
+    ]
+
     mismatches = []
     for name in PAGES:
         actual = capture((args.repo / name).read_text())
@@ -102,7 +112,7 @@ def main():
     if mismatches:
         print('\n'.join(mismatches))
         raise SystemExit(1)
-    print('All four pages match the snapshot after the approved header, booking, and contact changes.')
+    print('All four pages match the snapshot after the approved updates.')
 
 if __name__ == '__main__':
     main()
