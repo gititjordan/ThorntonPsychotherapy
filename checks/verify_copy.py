@@ -118,6 +118,23 @@ def main():
         'Building present-moment awareness, emotional regulation, and a kinder, more understanding relationship with yourself.',
     ]
 
+    # The practice supplied two additional portraits.
+    about = expected['about.html']
+    about['media'].append(['img', './assets/gladys-portrait-about.webp'])
+    about['accessibility'].insert(
+        about['accessibility'].index(['button', 'aria-label', 'Open navigation']) + 1,
+        ['img', 'alt', 'Gladys Thornton seated beside a fireplace'],
+    )
+
+    home = expected['index.html']
+    badge = ['img', './assets/psychology-today-verified.png']
+    home['media'].insert(home['media'].index(badge) + 1, ['img', './assets/gladys-portrait-approach.webp'])
+    booking_title = ['iframe', 'title', 'Book a consultation with Gladys Thornton']
+    home['accessibility'].insert(
+        home['accessibility'].index(booking_title),
+        ['img', 'alt', 'Gladys Thornton sitting on a sofa beside a fireplace'],
+    )
+
     mismatches = []
     for name in PAGES:
         actual = capture((args.repo / name).read_text())

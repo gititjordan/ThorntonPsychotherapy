@@ -236,7 +236,7 @@ h1 + .lead, h2 + .lead { margin-top: 1.25rem; }
 .who-icon { display: none; }
 
 #approach { background: var(--paper); }
-#approach .split > :last-child { align-self: start; padding: clamp(1.35rem, 3vw, 2.5rem); border-top: 2px solid var(--teal); background: var(--mist); }
+.approach-sidebar > .info-box { align-self: start; padding: clamp(1.35rem, 3vw, 2.5rem); border-top: 2px solid var(--teal); background: var(--mist); }
 .info-box ul { margin: 0; padding-left: 1.2rem; }
 .info-box li + li { margin-top: .55rem; }
 .methods-block, .verification-block { margin-top: 1.55rem; }
@@ -245,6 +245,16 @@ h1 + .lead, h2 + .lead { margin-top: 1.25rem; }
 .method-item { padding-block: .7rem; border-bottom: 1px solid var(--line); color: var(--copy); }
 .method-item strong { display: block; color: var(--ink); }
 .verified-badge { width: min(100%, 21rem); }
+
+.secondary-portrait { height: auto; max-width: 100%; }
+.secondary-portrait--about { width: 155px; margin: 1.25rem auto 0; }
+.secondary-portrait--about + .lead { margin-top: 1.25rem; }
+.secondary-portrait--approach { width: 155px; margin: 1.5rem auto 0; }
+
+@media (min-width: 48rem) {
+  .secondary-portrait--about { float: right; width: min(41%, 240px); margin: 1.25rem 0 .6rem 1.25rem; }
+  .secondary-portrait--approach { width: 210px; }
+}
 
 .about-only-page .split { align-items: start; }
 .about-only-page .info-box + .info-box { border-top: 1px solid var(--line); padding-top: 1.5rem; }
