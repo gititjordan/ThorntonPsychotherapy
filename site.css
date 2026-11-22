@@ -241,8 +241,9 @@ h1 + .lead, h2 + .lead { margin-top: 1.25rem; }
 .info-box li + li { margin-top: .55rem; }
 .methods-block, .verification-block { margin-top: 1.55rem; }
 .methods-label, .verification-label, .booking-points-label { margin-bottom: .6rem; color: var(--teal-dark); }
-.method-item { display: flex; gap: .78rem; padding-block: .7rem; border-bottom: 1px solid var(--line); color: var(--copy); }
-.method-number { color: var(--teal-dark); font-size: .76rem; font-weight: 650; line-height: 2.2; }
+.methods-list { margin-block: .6rem 0; }
+.method-item { padding-block: .7rem; border-bottom: 1px solid var(--line); color: var(--copy); }
+.method-item strong { display: block; color: var(--ink); }
 .verified-badge { width: min(100%, 21rem); }
 
 .about-only-page .split { align-items: start; }
