@@ -101,6 +101,23 @@ def main():
         'Above all, I believe the therapeutic relationship itself can be a powerful part of healing, offering opportunities to experience trust, acceptance, and connection in meaningful new ways.',
     ]
 
+    # The therapist supplied an introduction and five method descriptions.
+    methods_start = approach_copy.index('Methods I draw from') + 1
+    methods_end = approach_copy.index('My Credentials', methods_start)
+    approach_copy[methods_start:methods_end] = [
+        'My approach is integrative, meaning I draw from different therapeutic approaches to meet your unique needs, experiences, and goals. These include:',
+        'Person-Centred Therapy (PCT):',
+        'Creating a compassionate, nonjudgmental space where you feel heard, understood, and supported.',
+        'Cognitive Behavioural Therapy (CBT):',
+        "Exploring the connections between your thoughts, emotions, and behaviours while developing practical strategies to navigate life's challenges.",
+        'Emotion-Focused Therapy (EFT):',
+        'Helping you better understand, process, and express your emotions in healthy and meaningful ways.',
+        'Trauma-Informed Approaches:',
+        'Prioritizing emotional safety, trust, choice, and nervous system regulation while respecting your individual pace.',
+        'Mindfulness and Self-Compassion:',
+        'Building present-moment awareness, emotional regulation, and a kinder, more understanding relationship with yourself.',
+    ]
+
     mismatches = []
     for name in PAGES:
         actual = capture((args.repo / name).read_text())
